@@ -1,0 +1,1 @@
+This smart application is developed using HTML, CSS and PHP. Database used is MySQL. This app  was designed to improve the user interface for library mangement system.
